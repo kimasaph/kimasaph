@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=00C2CB&width=435&lines=Hello%2C+I'm+Kim;Full+Stack+Student+Developer;Open+to+AI+%26+Cybersecurity+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=00C2CB&width=500&lines=Hello%2C+I'm+Kim;Full+Stack+Student+Developer;Learning+AI+and+Cybersecurity" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,20 +18,63 @@
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🧰 Toolbox
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+## 🚧 Current Projects
+
+🪙 **WealthWise**  
+A personal finance tracker using **Spring Boot**, **React**, and **PostgreSQL**  
+Features:
+- 💰 Track expenses, savings goals, and financial accounts
+- 🔐 OAuth2 + JWT Authentication
+- 📊 Real-time dashboard and modals with ServiceNow UI
+
+🌱 Exploring: 
+- AI basics with Python + TensorFlow
+- Cybersecurity fundamentals (OWASP Top 10, auth flows, threat modeling)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kimasaph&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📈 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimasaph&show_icons=true&theme=github_dark)
+![Kim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimasaph&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimasaph&layout=compact&theme=github_dark)
+
+---
+
+## 🎯 2025 Learning Goals
+
+- 🔍 Deepen Spring Security knowledge (JWT + OAuth2)
+- 🤖 Build a simple AI tool using TensorFlow or OpenAI API
+- 🔐 Learn basic cybersecurity concepts and best practices
 
 ---
 
