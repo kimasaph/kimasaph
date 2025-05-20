@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=00C2CB&width=435&lines=Hello%2C+I'm+[Your+Name];Full+Stack+Student+Developer;Open+to+AI+%26+Cybersecurity+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=00C2CB&width=435&lines=Hello%2C+I'm+Kim;Full+Stack+Student+Developer;Open+to+AI+%26+Cybersecurity+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,8 @@
 🎓 A passionate student currently learning **Full Stack Development**  
 🌱 I’m currently learning: `React`, `Spring Boot`, `PostgreSQL`, `AWS`, and exploring `AI` and `Cybersecurity`  
 🔭 I’m building: **WealthWise** – a personal finance tracker built with Spring Boot + React  
-💬 Ask me about: JavaScript, backend development, student developer life  
-📫 How to reach me: asaphbacaltos@gmail.com | [LinkedIn] www.linkedin.com/in/kim-asaph-bacaltos-17a026367
+💬 Ask me about: Java, backend development, student developer life  
+📫 How to reach me: asaphbacaltos@gmail.com | www.linkedin.com/in/kim-asaph-bacaltos-17a026367  
 ⚡ Fun fact: I love solving real-life problems with tech and clean UI.
 
 ---
@@ -29,9 +29,9 @@
 
 ## 📈 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimasaph&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimasaph&layout=compact&theme=github_dark)
 
 ---
 
