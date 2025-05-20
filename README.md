@@ -37,11 +37,11 @@
 
 ## 📊 Visitor Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&label=Profile+views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=kimasaph&label=Profile+views&color=0e75b6&style=flat)
 
 ---
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/kim-asaph-bacaltos-17a026367)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kim-asaph-bacaltos-17a026367)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asaphbacaltos@gmail.com)
