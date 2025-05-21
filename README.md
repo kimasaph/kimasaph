@@ -5,10 +5,14 @@
 
 ---
 
-# 👋 Hi there! I'm Kim
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="28"/> Hello there, welcome!
+
+Hi, I'm Kim Asaph Bacaltos, currently a Cebu Institute of Technology University student majoring in IT.
+
+### About Me ###
 
 🎓 A passionate student currently learning **Full Stack Development**  
-🌱 I’m currently learning: `React`, `Spring Boot`, `PostgreSQL`, `AWS`, and exploring `AI` and `Cybersecurity`  
+🌱 I’m currently learning: `React`, `Spring Boot`, `PostgreSQL`, and exploring `AI` and `Cybersecurity`  
 🔭 I’m building: **WealthWise** – a personal finance tracker built with Spring Boot + React  
 💬 Ask me about: Java, backend development, student developer life  
 📫 How to reach me: asaphbacaltos@gmail.com | www.linkedin.com/in/kim-asaph-bacaltos-17a026367  
